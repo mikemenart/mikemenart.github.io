@@ -12,6 +12,7 @@ I am a comptuer science PhD student at the Ohio State University advised by [Rae
 
 Research
 =====
+
 [Faster Rates of Convergence to Stationary Points in Differentially Private Optimization](https://arxiv.org/pdf/2206.00846.pdf)
 -----
 
