@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a comptuer science PhD student at the Ohio State University advised by [Raef Bassily](https://sites.google.com/view/rbassily). My research focuses on characterizing the limits of differentially private optimization and machine learning. 
+I am a comptuer science PhD student at the Ohio State University advised by [Raef Bassily](https://sites.google.com/view/rbassily). My research focuses on characterizing the limits of differentially private optimization and machine learning. Other research interests include the role of stability in optimization and learning, the study of gradient oracle complexity lower bounds in first-order optimization methods, and bridging gaps between machine learning theory and practice.
 
 Research
 =====
