@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a comptuer science PhD student at the Ohio State University advised by [Raef Bassily](https://sites.google.com/view/rbassily). My research focuses on characterizing the limits of differentially private optimization and machine learning. Other research interests include the role of stability in optimization and learning, the study of gradient oracle complexity lower bounds in first-order optimization methods, and bridging gaps between machine learning theory and practice.
+I am a computer science PhD student at the Ohio State University advised by [Raef Bassily](https://sites.google.com/view/rbassily). My research focuses on characterizing the limits of differentially private optimization and machine learning. Other research interests include the role of stability in optimization and learning, the study of gradient oracle complexity lower bounds in first-order optimization methods, and bridging gaps between machine learning theory and practice.
 
 Research
 =====
+[Differentially Private Algorithms for the Stochastic Saddle Point Problem with Optimal Rates for the Strong Gap](https://arxiv.org/abs/2302.12909)
+-----
+
+R Bassily, C Guzmán, M Menart
 
 [Faster Rates of Convergence to Stationary Points in Differentially Private Optimization](https://arxiv.org/pdf/2206.00846.pdf)
 -----
@@ -30,3 +34,4 @@ Raman Arora, Raef Bassily, Cristóbal Guzmán, Michael Menart, Enayat Ullah
 
 Raef Bassily, Cristóbal Guzmán, Michael Menart  
 *NeurIPS 2021*
+
