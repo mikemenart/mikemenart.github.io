@@ -12,10 +12,12 @@ I am a computer science PhD student at the Ohio State University advised by [Rae
 
 Research
 =====
+
 [Differentially Private Algorithms for the Stochastic Saddle Point Problem with Optimal Rates for the Strong Gap](https://arxiv.org/abs/2302.12909)
 -----
 
 R Bassily, C Guzmán, M Menart
+*Preprint*
 
 [Faster Rates of Convergence to Stationary Points in Differentially Private Optimization](https://arxiv.org/pdf/2206.00846.pdf)
 -----
