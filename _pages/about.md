@@ -17,13 +17,13 @@ Research
 -----
 
 R Bassily, C Guzmán, M Menart  
-*Preprint*
+*COLT 2023*
 
 [Faster Rates of Convergence to Stationary Points in Differentially Private Optimization](https://arxiv.org/pdf/2206.00846.pdf)
 -----
 
 R Arora, R Bassily, T González, C Guzmán, M Menart, E Ullah  
-*Preprint*
+*ICML 2023*
 
 [Differentially Private Generalized Linear Models Revisited](https://arxiv.org/abs/2205.03014)
 -----
