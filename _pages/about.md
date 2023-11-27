@@ -13,6 +13,12 @@ I am a computer science PhD student at the Ohio State University advised by [Rae
 Research
 =====
 
+[Differentially Private Non-Convex Optimization under the KL Condition with Optimal Rates](https://arxiv.org/abs/2311.13447)
+-----
+
+M Menart, E Ullah, R Arora, R Bassily, C Guzmán  
+*Submitted 2023*
+
 [Differentially Private Algorithms for the Stochastic Saddle Point Problem with Optimal Rates for the Strong Gap](https://arxiv.org/abs/2302.12909)
 -----
 
