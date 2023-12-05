@@ -31,7 +31,7 @@ R Bassily, C Guzmán, M Menart
 R Arora, R Bassily, T González, C Guzmán, M Menart, E Ullah  
 *ICML 2023*
 
-[Differentially Private Generalized Linear Models Revisited](https://arxiv.org/abs/2205.03014)
+[Differentially Private Generalized Linear Models Revisited](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8d321ebb82b58987509b8624cbb85d65-Abstract-Conference.html)
 -----
 
 Raman Arora, Raef Bassily, Cristóbal Guzmán, Michael Menart, Enayat Ullah  
