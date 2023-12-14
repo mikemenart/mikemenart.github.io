@@ -17,7 +17,7 @@ Research
 -----
 
 M Menart, E Ullah, R Arora, R Bassily, C Guzmán  
-*Submitted 2023*
+*ALT 2024*
 
 [Differentially Private Algorithms for the Stochastic Saddle Point Problem with Optimal Rates for the Strong Gap](https://arxiv.org/abs/2302.12909)
 -----
