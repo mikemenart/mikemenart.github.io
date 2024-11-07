@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doc in the Department of Computer science at The University of Toronto, hosted by [Aleksander Nikolov](https://www.cs.toronto.edu/~anikolov/) and [Nicolas Papernot](https://www.papernot.fr/). Previously,
+I am a post-doc in the Department of Computer science at The University of Toronto, hosted by [Aleksander Nikolov](https://www.cs.toronto.edu/~anikolov/) and [Nicolas Papernot](https://www.papernot.fr/). I am also a postdoctoral affiliate with the [Vector Institute](https://vectorinstitute.ai/). Previously,
 I obtained my PhD the Ohio State University, where I was fortunate to be advised by [Raef Bassily](https://sites.google.com/view/rbassily). My research focuses on characterizing the limits of differentially private optimization and machine learning. Other research interests include the role of stability in optimization and learning, the study of gradient oracle complexity lower bounds in first-order optimization methods, and bridging gaps between machine learning theory and practice.
 
 Research
 =====
-Private Algorithms for Stochastic Saddle Points and Variational Inequalities: Beyond Euclidean Geometry
+[Private Algorithms for Stochastic Saddle Points and Variational Inequalities: Beyond Euclidean Geometry](https://mikemenart.github.io/)
 -----
 
 Raef Bassily, Cristóbal Guzmán, Michael Menart
