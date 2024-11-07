@@ -13,16 +13,17 @@ I obtained my PhD the Ohio State University, where I was fortunate to be advised
 
 Research
 =====
+
 [Private Algorithms for Stochastic Saddle Points and Variational Inequalities: Beyond Euclidean Geometry](https://mikemenart.github.io/)
 -----
 
-Raef Bassily, Cristóbal Guzmán, Michael Menart
+Raef Bassily, Cristóbal Guzmán, Michael Menart__
 *NeurIPS 2024*
 
 [Public-data Assisted Private Stochastic Optimization: Power and Limitations](https://arxiv.org/abs/2403.03856)
 -----
 
-E Ullah, M Menart, R Bassily, C Guzmán, R Arora
+E Ullah, M Menart, R Bassily, C Guzmán, R Arora__
 *NeurIPS 2024*
 
 [Differentially Private Non-Convex Optimization under the KL Condition with Optimal Rates](https://arxiv.org/abs/2311.13447)
