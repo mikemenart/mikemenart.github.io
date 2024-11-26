@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doc in the Department of Computer science at The University of Toronto, hosted by [Aleksander Nikolov](https://www.cs.toronto.edu/~anikolov/) and [Nicolas Papernot](https://www.papernot.fr/). I am also a postdoctoral affiliate with the [Vector Institute](https://vectorinstitute.ai/). Previously,
-I obtained my PhD the Ohio State University, where I was fortunate to be advised by [Raef Bassily](https://sites.google.com/view/rbassily). My research focuses on characterizing the limits of differentially private optimization and machine learning. Other research interests include the role of stability in optimization and learning, the study of gradient oracle complexity lower bounds in first-order optimization methods, and bridging gaps between machine learning theory and practice.
+I am a postdoc in the Department of Computer Science at The University of Toronto, hosted by [Aleksander Nikolov](https://www.cs.toronto.edu/~anikolov/) and [Nicolas Papernot](https://www.papernot.fr/). I am also a postdoctoral affiliate with the [Vector Institute](https://vectorinstitute.ai/). Previously,
+I obtained my PhD the Ohio State University, where I was fortunate to be advised by [Raef Bassily](https://sites.google.com/view/rbassily). My research focuses on expanding the theoretical foundations of machine learning. More specifically, I my aim is to use these inisghts to better design machine learning and optimization algorithms which operate under algorithmic constraints, such as privacy, stability, and fairness. The implementation of these algorithmic constraints has been severely limited by the lack of existing theory. Differentially private deep learning is primarily built on noisy stochastic gradient descent with clipping, but at the same time, this method exhibits poor performance in most cases. By contrast, the well developed theory on convex optimization has allowed us to develop a rich catalogue of algorithms with optimal rates under various algorithmic constraints.
 
 Research
 =====
