@@ -13,6 +13,8 @@ I obtained my PhD the Ohio State University, where I was fortunate to be advised
 
 My research focuses on expanding the theoretical foundations of machine learning. I am specifically interested in the design and analysis of machine learning and optimization algorithms which operate under algorithmic constraints, such as privacy, stability, and fairness. My work both characterizes the limits of private learning under such constraints and develops techniuqes for avoiding bottlenecks in trustworthy machine learning by leveraging insights from theory.
 
+I'm on the job market, feel free to reach out! [CV](/files/CV_Michael Menart.pdf)
+
 Publications
 =====
 
