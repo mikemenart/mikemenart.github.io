@@ -17,45 +17,52 @@ I'm on the job market, feel free to reach out! [CV](/files/CV_Michael Menart.pdf
 
 Publications
 =====
+### [On the Gradient Complexity of Private Optimization with Private Oracles](https://arxiv.org/pdf/2511.13999)
+#### M. Menart, A Nikolov
+#### *preprint*
 
-## [Private Algorithms for Stochastic Saddle Points and Variational Inequalities: Beyond Euclidean Geometry](https://arxiv.org/abs/2411.05198)
+### [Private Rate-Constrained Optimization with Applications to Fair Learning](https://arxiv.org/pdf/2505.22703)
+#### M. Yaghini, T. Cebere, M. Menart, A. Bellete, N. Papernot
+#### *ICLR 2026* 
 
-Raef Bassily, Cristóbal Guzmán, Michael Menart  
-*NeurIPS 2024*
+### [Private Algorithms for Stochastic Saddle Points and Variational Inequalities: Beyond Euclidean Geometry](https://arxiv.org/abs/2411.05198)
 
-## [Public-data Assisted Private Stochastic Optimization: Power and Limitations](https://arxiv.org/abs/2403.03856)
+#### Raef Bassily, Cristóbal Guzmán, Michael Menart  
+#### *NeurIPS 2024*
+
+### [Public-data Assisted Private Stochastic Optimization: Power and Limitations](https://arxiv.org/abs/2403.03856)
 
 
-E Ullah, M Menart, R Bassily, C Guzmán, R Arora  
-*NeurIPS 2024*
+#### E Ullah, M Menart, R Bassily, C Guzmán, R Arora  
+#### *NeurIPS 2024*
 
 ### [Differentially Private Non-Convex Optimization under the KL Condition with Optimal Rates](https://arxiv.org/abs/2311.13447)
 
 
-M Menart, E Ullah, R Arora, R Bassily, C Guzmán  
-*ALT 2024*
+#### M Menart, E Ullah, R Arora, R Bassily, C Guzmán  
+#### *ALT 2024*
 
 ### [Differentially Private Algorithms for the Stochastic Saddle Point Problem with Optimal Rates for the Strong Gap](https://arxiv.org/abs/2302.12909)
 
 
-R Bassily, C Guzmán, M Menart  
-*COLT 2023*
+#### R Bassily, C Guzmán, M Menart  
+#### *COLT 2023*
 
 ### [Faster Rates of Convergence to Stationary Points in Differentially Private Optimization](https://arxiv.org/pdf/2206.00846.pdf)
 
 
-R Arora, R Bassily, T González, C Guzmán, M Menart, E Ullah  
-*ICML 2023*
+#### R Arora, R Bassily, T González, C Guzmán, M Menart, E Ullah  
+#### *ICML 2023*
 
 ### [Differentially Private Generalized Linear Models Revisited](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8d321ebb82b58987509b8624cbb85d65-Abstract-Conference.html)
 
 
-Raman Arora, Raef Bassily, Cristóbal Guzmán, Michael Menart, Enayat Ullah  
-*NeurIPS 2022*
+#### Raman Arora, Raef Bassily, Cristóbal Guzmán, Michael Menart, Enayat Ullah  
+#### *NeurIPS 2022*
 
 ### [Differentially private stochastic optimization: New results in convex and non-convex settings](https://proceedings.neurips.cc/paper/2021/file/4ddb5b8d603f88e9de689f3230234b47-Paper.pdf)
 
 
-Raef Bassily, Cristóbal Guzmán, Michael Menart  
-*NeurIPS 2021*
+#### Raef Bassily, Cristóbal Guzmán, Michael Menart  
+#### *NeurIPS 2021*
 
