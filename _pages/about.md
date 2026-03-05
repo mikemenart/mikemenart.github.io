@@ -28,8 +28,7 @@ M. Yaghini, T. Cebere, M. Menart, A. Bellete, N. Papernot *(ICLR 2026)*
 R. Bassily, C. Guzmán, M. Menart *(NeurIPS 2024)*
 
 - [Public-data Assisted Private Stochastic Optimization: Power and Limitations](https://arxiv.org/abs/2403.03856).  
-  
- E Ullah, M Menart, R Bassily, C Guzmán, R Arora. *(NeurIPS 2024)*
+E Ullah, M Menart, R Bassily, C Guzmán, R Arora. *(NeurIPS 2024)*
 
 - [Differentially Private Non-Convex Optimization under the KL Condition with Optimal Rates](https://arxiv.org/abs/2311.13447).  
 M Menart, E Ullah, R Arora, R Bassily, C Guzmán. *(ALT 2024)*
