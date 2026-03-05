@@ -18,9 +18,8 @@ I'm on the job market, feel free to reach out! [CV](/files/CV_Michael Menart.pdf
 Publications
 ----
 
-- [On the Gradient Complexity of Private Optimization with Private Oracles](https://arxiv.org/pdf/2511.13999). 
-
- M. Menart, A Nikolov *(preprint)*
+- [On the Gradient Complexity of Private Optimization with Private Oracles](https://arxiv.org/pdf/2511.13999).  
+M. Menart, A Nikolov *(preprint)*
 
 - [Private Rate-Constrained Optimization with Applications to Fair Learning](https://arxiv.org/pdf/2505.22703). 
 
