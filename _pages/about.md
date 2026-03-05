@@ -43,5 +43,5 @@ R Arora, R Bassily, T González, C Guzmán, M Menart, E Ullah. *(ICML 2023)*
 R. Arora, R. Bassily, C. Guzmán, Michael Menart, E. Ullah. *(NeurIPS 2022)*
 
 - [Differentially private stochastic optimization: New results in convex and non-convex settings](https://proceedings.neurips.cc/paper/2021/file/4ddb5b8d603f88e9de689f3230234b47-Paper.pdf).  
-Raef Bassily, Cristóbal Guzmán, Michael Menart. *(NeurIPS 2021_*
+Raef Bassily, Cristóbal Guzmán, Michael Menart. *(NeurIPS 2021)*
 
