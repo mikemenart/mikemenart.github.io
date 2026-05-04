@@ -19,7 +19,7 @@ Publications
 ----
 
 - [On the Gradient Complexity of Private Optimization with Private Oracles](https://arxiv.org/pdf/2511.13999).  
-M. Menart, A. Nikolov *(preprint)*
+M. Menart, A. Nikolov *(COLT 2026)*
 
 - [Private Rate-Constrained Optimization with Applications to Fair Learning](https://arxiv.org/pdf/2505.22703).  
 M. Yaghini, T. Cebere, M. Menart, A. Bellete, N. Papernot *(ICLR 2026)*
