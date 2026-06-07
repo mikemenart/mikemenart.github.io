@@ -11,7 +11,7 @@ redirect_from:
 I am a postdoc in the Department of Computer Science at The University of Toronto, hosted by [Aleksander Nikolov](https://www.cs.toronto.edu/~anikolov/) and [Nicolas Papernot](https://www.papernot.fr/). I am also a postdoctoral affiliate with the [Vector Institute](https://vectorinstitute.ai/). Previously,
 I obtained my PhD the Ohio State University, where I was fortunate to be advised by [Raef Bassily](https://sites.google.com/view/rbassily).
 
-My research focuses on expanding the theoretical foundations of machine learning. I am specifically interested in the design and analysis of machine learning and optimization algorithms which operate under algorithmic constraints, such as privacy, stability, and fairness. My work both characterizes the limits of learning under such constraints and develops techniuqes for avoiding bottlenecks in trustworthy machine learning by leveraging insights from theory.
+My research focuses on expanding the theoretical foundations of machine learning. I am specifically interested in the design and analysis of machine learning and optimization algorithms which operate under algorithmic constraints, such as privacy, stability, and fairness. My work both characterizes the limits of learning under such constraints and develops techniques for avoiding bottlenecks in trustworthy machine learning by leveraging insights from theory.
 
 I'm on the job market, feel free to reach out! [CV](/files/CV_Michael Menart.pdf)
 
