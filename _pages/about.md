@@ -18,6 +18,9 @@ I'm on the job market, feel free to reach out! [CV](/files/CV_Michael Menart.pdf
 Publications
 ----
 
+- [Stronger Memory-Query Tradeoffs for Convex Optimization: The Limitations of Subquadratic Memory](https://arxiv.org/abs/2607.24827).  
+M. Menart, A. Nikolov, O. Shamir *(FOCS 2026)*
+
 - [On the Gradient Complexity of Private Optimization with Private Oracles](https://arxiv.org/pdf/2511.13999).  
 M. Menart, A. Nikolov *(COLT 2026)*
 
